@@ -17,3 +17,8 @@ SELECT *
 FROM dbo.EcosProfile AS ep
 WHERE ep.EcosProfileId = 25120
 ```
+The following is a markdown sample of a task list:
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
